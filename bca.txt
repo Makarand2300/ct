@@ -1,0 +1,3 @@
+
+Today is a beautiful day and im getting full marks > bca.txt
+echo Today is a beautiful day and im getting full marks
